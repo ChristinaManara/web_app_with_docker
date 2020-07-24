@@ -3,4 +3,4 @@ The aim of the project is to present a web application in Docker. First of all, 
 
 1.Run Docker
 2.Open a broswer in localhost
-Enjoy!
+3.Enjoy!
